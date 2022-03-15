@@ -1,2 +1,16 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<style>
+  @font-face {
+    font-family: "Poppins";
+    src: url("assets/fonts/Poppins-Regular.ttf");
+  }
+
+  @font-face {
+    font-family: "Poppins";
+    src: url("assets/fonts/Poppins-SemiBold.ttf");
+    font-weight: 600;
+  }
+
+  main {
+    font-family: "Poppins", sans-serif;
+  }
+</style>
